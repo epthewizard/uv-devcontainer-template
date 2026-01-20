@@ -1,0 +1,14 @@
+{
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": "explicit"
+	},
+	"files.exclude": {
+		"**/.python-version": true
+	},
+	"telemetry.enableTelemetry": false,
+	"telemetry.enableCrashReporter": false,
+	"python.linting.enabled": true,
+	"python.analysis.typeCheckingMode": "basic",
+	"python.languageServer": "Pylance"
+}
